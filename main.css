@@ -163,3 +163,15 @@ body {
   background-color: #5b9279;
   color: #FAFAFA;
 }
+/* ------------------------------------- */
+.fontawesome {
+  padding: 30px 0 15px 0;
+  margin: 0 0 45px 0;
+  color: inherit;
+}
+.fontawesome > * {
+  padding: 15px;
+  margin-right: 20px;
+  background-color: #345345;
+  color: #FAFAFA;
+}
